@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/stiletto/stiletto.iml" filepath="$PROJECT_DIR$/stiletto/stiletto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stiletto-annotations/stiletto-annotations.iml" filepath="$PROJECT_DIR$/stiletto-annotations/stiletto-annotations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stiletto-compiler/stiletto-compiler.iml" filepath="$PROJECT_DIR$/stiletto-compiler/stiletto-compiler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stiletto-parent.iml" filepath="$PROJECT_DIR$/stiletto-parent.iml" />
+    </modules>
+  </component>
+</project>
