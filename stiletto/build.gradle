@@ -20,7 +20,7 @@ android {
 }
 
 dependencies {
-//  compile project(':butterknife-annotations')
+  compile project(':stiletto-annotations')
   compile deps.supportAnnotations
   compile deps.supportCompat
 
@@ -35,7 +35,7 @@ dependencies {
   testCompile deps.compiletesting
   testCompile files(getRuntimeJar())
   testCompile files(org.gradle.internal.jvm.Jvm.current().getToolsJar())
-//  testCompile project(':butterknife-compiler')
+  testCompile project(':stiletto-compiler')
 }
 
 def getRuntimeJar() {

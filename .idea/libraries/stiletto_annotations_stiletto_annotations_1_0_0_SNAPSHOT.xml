@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="stiletto-annotations.stiletto-annotations-1.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/stiletto-annotations/build/libs/stiletto-annotations-1.0.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

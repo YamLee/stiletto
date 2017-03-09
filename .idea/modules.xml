@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/sample/sample.iml" filepath="$PROJECT_DIR$/sample/sample.iml" />
       <module fileurl="file://$PROJECT_DIR$/stiletto/stiletto.iml" filepath="$PROJECT_DIR$/stiletto/stiletto.iml" />
       <module fileurl="file://$PROJECT_DIR$/stiletto-annotations/stiletto-annotations.iml" filepath="$PROJECT_DIR$/stiletto-annotations/stiletto-annotations.iml" />
       <module fileurl="file://$PROJECT_DIR$/stiletto-compiler/stiletto-compiler.iml" filepath="$PROJECT_DIR$/stiletto-compiler/stiletto-compiler.iml" />

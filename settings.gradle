@@ -1,6 +1,6 @@
 include ':stiletto'
 include ':stiletto-annotations'
 include ':stiletto-compiler'
-
+include ':sample'
 
 rootProject.name = 'stiletto-parent'
