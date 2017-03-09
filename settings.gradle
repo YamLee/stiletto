@@ -1,0 +1,6 @@
+include ':stiletto'
+include ':stiletto-annotations'
+include ':stiletto-compiler'
+
+
+rootProject.name = 'stiletto-parent'
